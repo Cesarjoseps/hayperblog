@@ -16,7 +16,7 @@ body {
 }
 
 #container h1 {
-    font-size: 20px;
+    font-size: 25px;
 }
 
 #cabecera {
@@ -26,6 +26,7 @@ body {
     color: white;
     padding: 0.5em;
     text-align: center;
+    font-size: 26px;
 }
 
 #cabecera #tagline {
